@@ -1,0 +1,9 @@
+
+@echo off
+if NOT %pauseOpt% == nopause (
+    call CheckInstall.bat
+
+    if ErrorLevel == 1 (
+        goto fail
+    )
+)

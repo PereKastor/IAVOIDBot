@@ -1,0 +1,7 @@
+﻿  MyBotLogic.cpp
+C:\Cours\AIBot\build-solution-x64/Map.h(43): warning C4244: 'return' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Cours\AIBot\TurnInfo.h(27): warning C4099: 'TileInfo' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+  C:\Cours\AIBot\TurnInfo.h(26): note: voir la déclaration de 'TileInfo'
+C:\Cours\AIBot\MyBotLogic\MyBotLogic.cpp(43): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Cours\AIBot\MyBotLogic\MyBotLogic.cpp(45): warning C4018: '<' : incompatibilité signed/unsigned
+  aibot.vcxproj -> C:\Cours\AIBot\build-solution-x64\Debug\aibot.exe

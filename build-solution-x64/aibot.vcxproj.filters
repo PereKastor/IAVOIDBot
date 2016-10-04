@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Cours\AIBot\Bot.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\LevelInfo.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\Logger.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\TurnInfo.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\MyBotLogic\MyBotLogic.cpp">
+      <Filter>Sources\MyBotLogic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\build-solution-x64\Map.cpp">
+      <Filter>Sources\build-solution-x64</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\build-solution-x64\Node.cpp">
+      <Filter>Sources\build-solution-x64</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\build-solution-x64\SearchMap.cpp">
+      <Filter>Sources\build-solution-x64</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\build-solution-x64\SearchNode.cpp">
+      <Filter>Sources\build-solution-x64</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Cours\AIBot\Main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Cours\AIBot\Bot.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\BotLogicIF.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\Globals.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\LevelInfo.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\Logger.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\TurnInfo.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\MyBotLogic\MyBotLogic.h">
+      <Filter>Headers\MyBotLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\build-solution-x64\Map.h">
+      <Filter>Headers\build-solution-x64</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\build-solution-x64\Node.h">
+      <Filter>Headers\build-solution-x64</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\build-solution-x64\SearchMap.h">
+      <Filter>Headers\build-solution-x64</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Cours\AIBot\build-solution-x64\SearchNode.h">
+      <Filter>Headers\build-solution-x64</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Cours\AIBot\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Cours\AIBot\ChangeLog.txt" />
+    <None Include="C:\Cours\AIBot\CheckInstall.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Cours\AIBot\CleanAll.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Cours\AIBot\CreateJob.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Cours\AIBot\Filters.cmake" />
+    <None Include="C:\Cours\AIBot\GenAIBootCampViewerFiles.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Cours\AIBot\GenAIBootCampViewerFiles.py" />
+    <None Include="C:\Cours\AIBot\Install.txt" />
+    <None Include="C:\Cours\AIBot\PlayStandaloneMatch.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Cours\AIBot\rebuild_vis_sln_x64.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Cours\AIBot\TeamInfo.team" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0806FD81-49E8-37E2-8823-B2905F35D625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{D6884102-6BC8-3256-A543-378080719B5C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{D7F86537-62BF-3A75-8A94-F975FDE71C31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\MyBotLogic">
+      <UniqueIdentifier>{AFBE5D3A-BA35-3419-9D3F-C6AEA189F1BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\build-solution-x64">
+      <UniqueIdentifier>{0279509B-4F0B-3DA0-813B-323AED743410}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\MyBotLogic">
+      <UniqueIdentifier>{40A3B9BE-B64E-3D61-BF22-7FC62C51ED28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\build-solution-x64">
+      <UniqueIdentifier>{7588FD6E-BA6D-3AD0-8E51-E7E6EE2D54DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

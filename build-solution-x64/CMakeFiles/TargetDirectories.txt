@@ -1,0 +1,3 @@
+C:/Cours/AIBot/build-solution-x64/CMakeFiles/aibot.dir
+C:/Cours/AIBot/build-solution-x64/CMakeFiles/ALL_BUILD.dir
+C:/Cours/AIBot/build-solution-x64/CMakeFiles/ZERO_CHECK.dir
